@@ -2,3 +2,4 @@ bin
 etc
 share
 lib/python3.9
+.env
