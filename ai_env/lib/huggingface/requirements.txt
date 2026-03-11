@@ -1,0 +1,3 @@
+huggingface_hub
+pydantic_settings
+python-dotenv
